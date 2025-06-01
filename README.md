@@ -6,7 +6,8 @@ MoodieMovie adalah sistem rekomendasi film yang dibangun menggunakan kombinasi *
 
 Kami menggunakan dataset **TMDB Movie Metadata (2024)** berisi 1 juta entri, yang digabungkan dengan **TMDB 5000 Movie Dataset**. Karena perbedaan fitur dan jumlah data, kami menambahkan atribut penting (seperti cast) dan melakukan **data synthesis** menggunakan Python `faker` untuk melengkapi kekurangan data. Dataset tersedia dalam format `.csv` dan diunduh dari Kaggle:
 
-🔗 [TMDB Movie Metadata – Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+🔗 [TMDB 5000 Movie Dataset – Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+🔗 [TMDB Movie Metadata (2024) – Kaggle](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
 
 ## 🗃️ Struktur Database
 
